@@ -11,7 +11,7 @@ I build data-driven projects to analyze business performance and generate insigh
 - Built an interactive dashboard with KPI metrics, revenue trends, and filters
 - Analyzed sales performance by country, product, and time
 
-👉 https://github.com/kibrom-woldemichael/coffee-powerbi-dashboard
+-> https://github.com/kibrom-woldemichael/coffee-powerbi-dashboard
 
 ---
 
