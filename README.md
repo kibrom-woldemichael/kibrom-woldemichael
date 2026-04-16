@@ -1,7 +1,7 @@
-# Hi, I'm Kibrom 👋
+# Hi, I am Kibrom 
 
 Aspiring Data Analyst with hands-on experience in Python, SQL, and Power BI.  
-I build data-driven projects to analyze business performance and generate insights.
+I build data-driven projects to analyse business performance and generate insights.
 
 ---
 
@@ -9,7 +9,7 @@ I build data-driven projects to analyze business performance and generate insigh
 
 ### Coffee Sales Dashboard (Power BI)
 - Built an interactive dashboard with KPI metrics, revenue trends, and filters
-- Analyzed sales performance by country, product, and time
+- Analysed sales performance by country, product, and time
 
 -> https://github.com/kibrom-woldemichael/coffee-powerbi-dashboard
 
@@ -24,8 +24,8 @@ I build data-driven projects to analyze business performance and generate insigh
 ---
 
 ### Coffee Sales Data Analysis (Python)
-- Cleaned and analyzed sales data using Pandas
-- Created visualizations with Matplotlib to identify trends
+- Cleaned and analysed sales data using Pandas
+- Created visualisations with Matplotlib to identify trends
 
 -> https://github.com/kibrom-woldemichael/coffee-sales-analysis
 
