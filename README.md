@@ -42,4 +42,4 @@ I build data-driven projects to analyse business performance and generate insigh
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/kibrom-berhe-woldemichael-825ba9123
+- LinkedIn: www.linkedin.com/in/kibrom-woldemichael-825ba9123
